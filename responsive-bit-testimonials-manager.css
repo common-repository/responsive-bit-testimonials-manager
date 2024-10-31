@@ -1,0 +1,34 @@
+
+.rb_testimonial_other_info {
+	float: right;
+	text-align: right;
+	font-style: normal;
+	font-weight: bold;
+}
+
+blockquote {
+	background: url(pull-quote.png) no-repeat scroll 0 4px transparent;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: italic;
+	line-height: 24px;
+	padding: 5px 10px 5px 35px;
+}
+
+.divider {
+	background: url(dot.png) repeat-x scroll 0 100% transparent;
+	clear: both;
+	display: block;
+	margin-bottom: 20px;
+	padding-top: 20px;
+	width: 100%;
+}
+
+#testimonialTextColor {
+	background: url(color-select.png) no-repeat scroll 50% 50% transparent;
+	height: 36px;
+	position: relative;
+	width: 36px;
+}
+
+
